@@ -37,5 +37,3 @@ heamedenvet.ai :
 
 ![heamedenvet.ai016.png](./media/heamedenvet.ai016.png)
 
-![heamedenvet.ai017.png](./media/heamedenvet.ai017.png)
-
